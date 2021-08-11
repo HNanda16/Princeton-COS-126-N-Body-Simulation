@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Newton's Laws}
+\author{Hasit Nanda}
+\date{February 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{Newton's First Law}
+
+Newton’s first law states that a body at rest or moving at a constant speed will remain at rest or keep moving in a straight line at constant speed unless it is acted upon by a force. Mathematically, this is equivalent to saying that if the net force on an object is zero, then the velocity of the object is constant. This can be expressed as
+$\sum F = 0 \iff \frac{dv}{dt} = 0$. This postulate is known as the law of inertia. 
+
+\subsection*{Origin of the Law of Inertia}
+
+The law of inertia was first formulated by Galileo. Galileo understood from his experiments that an object in motion remains in motion unless a force such as friction causes it to come to rest.
+
+
+\section{Newton's Second Law}
+
+Newton's second law of motion states that the acceleration of an object is dependent upon two variables - the net force acting upon the object and the mass of the object. The acceleration of an object is directly propositional to the net force acting upon the object, and is inversely proportional to the mass of the object. This can be expressed in the following equation:
+
+\begin{equation}
+    F = ma
+\end{equation}
+
+\section{Newton's Third Law}
+
+Newton's Third Law States that if Object A exerts a force on Object B, then object B will exert a force on object A that is equal in magnitude, in the opposite direction, along the same line, and of the same type. An example of a Newton's 3rd law Pair is a person's weight caused by the gravitational pull of the earth, the the force of gravity exerted by the person on the earth. Of course, the latter is far less noticeable as the acceleration of the earth due to the gravitational field of a human is negligible.
+
+
+\end{document}
